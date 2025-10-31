@@ -5,7 +5,7 @@ I’m passionate about building creative web projects and exploring business
 opportunities in technology. I enjoy turning ideas into reality through clean code, design, and smart solutions.
 🚀 About Me
 
-🌍 I'M From Ethiopia, building for the world.
+🌍 I'M From Ethiopia, building for the world🌏.
 
 🧠 Currently learning React, UI/UX, and backend development.
 
@@ -27,6 +27,7 @@ Other: Notion, adobes.
 ⚡ Fun Fact.
 
 When I’m not coding, I’m learning about business strategies, cars, and travel ideas.
+
 ## 🌐 Socials:
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ephremkakamu@gmail.com) ephremkakamu@gmail.com
 
