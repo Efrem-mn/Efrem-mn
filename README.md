@@ -1,9 +1,8 @@
 ## Hi there 👋
-# 💫 About Me:
+# 🚀  About Me:
 💻 Developer | Entrepreneur | Tech Enthusiast
 I’m passionate about building creative web projects and exploring business
 opportunities in technology. I enjoy turning ideas into reality through clean code, design, and smart solutions.
-🚀 About Me
 
 🌍 I'M From Ethiopia, building for the world🌏.
 
