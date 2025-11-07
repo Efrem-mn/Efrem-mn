@@ -8,7 +8,7 @@ opportunities in technology. I enjoy turning ideas into reality through clean co
 
 🧠 Currently learning React, UI/UX, and backend development.
 
-💼 Owner of MichealPLC — a growing business Group.
+💼 Owner of RasuPLC — a growing business Group.
 
 📈 Interested in finance, automation, and digital entrepreneurship.
 
